@@ -1,7 +1,7 @@
 python
 keras
 numpy>=1.26.0
-opencv-python=
+opencv-python
 opencv-python-headless
 pandas
 scikit-learn
